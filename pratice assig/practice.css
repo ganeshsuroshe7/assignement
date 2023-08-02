@@ -1,0 +1,86 @@
+body{
+    margin: 10px;  
+    background-color: red;     
+}
+.main{
+    
+    width: 1200px;
+    margin: 0 auto;
+    -webkit-box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 10PX;
+    background-color: #fff;
+    }
+.logo{
+    width: 20%;
+}
+.img{
+    width: 100%;
+}
+.header{
+    
+    display: flex;
+    background: rgb(34,193,195);
+    background: linear-gradient(349deg,rgba(34,193,195,1)0% rgba(253,187,45,1)100%);
+    padding: 15px;
+}
+.menu li{
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+.slider{
+    
+    margin:0px;
+    background-image: url(indian-college-boy-showing-diary-white-background_54391-6110.avif);
+    background-repeat: no-repeat;    
+    height: 550px;
+    background-position: top;
+}
+.text{
+    position: absolute;
+    top: 350px;
+    left: 170px;
+    width: 300px;
+    display: inline;
+
+}
+.slider h2{
+    margin: 0px;
+    color: black;
+}
+.slider p{    
+color: black;     
+}
+.course{
+    margin-top:50PX;
+    display: flex;
+    justify-content: center;
+      
+    
+      
+        
+}
+.box img{
+    width: 100%;
+}
+.box-text{
+    padding: 10PX;
+}
+.box1{
+    background-color: pink;
+    margin: 20px;
+}
+.box2{
+    background-color: gray;
+    margin: 20px;
+}
+.box3{
+    background-color: aqua;
+    margin: 20px;
+    
+}
+
+
